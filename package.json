@@ -2,6 +2,7 @@
   "name": "hw29-react1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://serhii-zamorylo23.github.io/hw29-react1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
